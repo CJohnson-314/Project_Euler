@@ -7,3 +7,5 @@
 * In the long term, I will aim to start producing solutions in other languages to keep developing my skills
 * Problems with non-python solutions:
     - 19 in SQL
+* Problems still needing solutions:
+    - 15
